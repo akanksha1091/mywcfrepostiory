@@ -1,0 +1,6 @@
+D:\MyPractiseWCF\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll.config
+D:\MyPractiseWCF\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+D:\MyPractiseWCF\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+D:\MyPractiseWCF\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
+D:\MyPractiseWCF\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+D:\MyPractiseWCF\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb

@@ -1,0 +1,6 @@
+D:\MyPractiseWCF\WebServicesDemo\HelloWebClient\bin\HelloWebClient.dll.config
+D:\MyPractiseWCF\WebServicesDemo\HelloWebClient\bin\HelloWebClient.dll
+D:\MyPractiseWCF\WebServicesDemo\HelloWebClient\bin\HelloWebClient.pdb
+D:\MyPractiseWCF\WebServicesDemo\HelloWebClient\obj\Debug\HelloWebClient.csprojResolveAssemblyReference.cache
+D:\MyPractiseWCF\WebServicesDemo\HelloWebClient\obj\Debug\HelloWebClient.dll
+D:\MyPractiseWCF\WebServicesDemo\HelloWebClient\obj\Debug\HelloWebClient.pdb
